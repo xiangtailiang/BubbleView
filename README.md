@@ -2,4 +2,6 @@
 
 Talk is cheap, show you the screenshot.
 
-[Demo Video](https://github.com/xiangtailiang/BubbleView/art/buble.mp4)
+<img src="/art/bubble.gif" width="720" height="1280" /> 
+
+[Demo Video](https://github.com/xiangtailiang/BubbleView/blob/master/art/bubble.mp4)
